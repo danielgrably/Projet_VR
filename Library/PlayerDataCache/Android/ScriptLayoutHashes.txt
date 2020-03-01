@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Users/jblg/ESIEA/4A/VR/Projet_VR/AR_Project.apk
+C:/Users/gouno/Desktop/Projet_VR/target.apk
 SceneListBegin?
 Assets/Projet_VR.unity
 SceneListEnd?
@@ -56,8 +56,6 @@ abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.Tou
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.SimpleInfo
 d3c76b14a25eebd3a3323dd43297919c Unity.TextMeshPro.dll:TMPro.TMP_InputField
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -308,3 +306,12 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+bc92e837d05fd7fe9475635bb2eb9f4e Assembly-CSharp.dll:.ParticleComponent
+210b879276bab71a3528ba7387f7e717 Assembly-CSharp.dll:.SphereExploder
+a17299b53a9ff080fb194d8eff83b013 Assembly-CSharp.dll:.VolumetricComponent
+210b879276bab71a3528ba7387f7e717 Assembly-CSharp.dll:.Exploder
+a17299b53a9ff080fb194d8eff83b013 Assembly-CSharp.dll:.VolumetricComponent2D
+695e0fcec97187c8e9f30914b6f19773 Assembly-CSharp.dll:.PseudoVolumetricExplosion
+f6690ba23e4e9ed99959d64ab36f6a40 Assembly-CSharp.dll:.LightComponent
+210b879276bab71a3528ba7387f7e717 Assembly-CSharp.dll:.Exploder2D
+e3dd3f4869a22872926922eadbebf1ba Assembly-CSharp.dll:.PseudoVolumetricComponent
